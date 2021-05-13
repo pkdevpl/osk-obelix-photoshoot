@@ -1,6 +1,6 @@
 # OSK Obelix Photoshoot
 
-Photoshoot for driving school website and social media.
+Photoshoot for driving school website and social media  
 (do not use without permission)
 
 ![Kia Front](/images/kia_001.png)
