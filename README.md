@@ -1,7 +1,7 @@
 # OSK Obelix Photoshoot
 
-Photoshoot for driving school website and social media  
-(do not use without permission)
+## About
+Below are images from photoshoot I did for a driving school. They were needed for new website and social media posts. Photoshoot took about 2 hours and post-processing about one working day. Please, do not use those images without written permission.
 
 ![Kia Front](/images/kia_001.png)
 ![Kia Front](/images/kia_002.png)
